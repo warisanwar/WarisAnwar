@@ -1,6 +1,6 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# I am Waris Anwar
-### A full stack web developer
+<img src="https://github.com/warisanwar/WarisAnwar/blob/master/header.png?raw=true">
+
+### A Full Stack Web Developer with a focus in Front End and I love to create beautiful performant products with delightful user experiences.
 
 
 - 🔭 I’m currently working on ⚛ ReactJs and Django.
