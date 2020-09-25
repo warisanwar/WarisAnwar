@@ -16,6 +16,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
 <br />
 <hr />
 
@@ -28,8 +29,8 @@
 <img align="left" alt="bulma" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" />
-<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+<img align="left" alt="Redux"  src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" height="50" width="120"/>
+<img align="left" alt="Django"  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50"/>
 <br />
 <br />
 <hr />
@@ -131,6 +132,7 @@
 </tr>
 </table>  
 <br/>  
+<hr/>
 
 ### Stats
 <a href="#stats">
