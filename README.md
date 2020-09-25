@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 # I am Waris Anwar
 ### A full stack web developer
 
@@ -28,6 +28,7 @@
 <img align="left" alt="bulma" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" />
 <img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 <br />
 <br />
@@ -38,6 +39,7 @@
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
+<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
@@ -50,6 +52,71 @@
   <img align="center" alt="Waris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisanwar&layout=compact" />
 </a>
 
+## My Work 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### [Mismar]
+<div align="center">  
+<img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
+</div>
+
+### Built with:
+
+<div align="center">
+<img align="left" style="margin: 10px"alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50"/>
+<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+                                                                                                                          
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### [Mismar]
+<div align="center">  
+<img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
+</div>
+
+### Built with:
+
+<div align="center">
+<img align="left" style="margin: 10px"alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50"/>
+<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### [Mismar]
+<div align="center">  
+<img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
+</div>
+
+### Built with:
+
+<div align="center">
+<img align="left" style="margin: 10px"alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50"/>
+<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
+
+</td>
+</tr>
+</table>  
+
+<br/>  
 
 
 
@@ -57,3 +124,4 @@
 
 [Twitter]: https://twitter.com/warisanwarmir
 [LinkedIn]: https://www.linkedin.com/in/warisanwar/
+[Mismar]: https://mismar.com/
