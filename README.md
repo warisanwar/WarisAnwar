@@ -118,7 +118,7 @@
 
 ### [Kuwaiti Words]
 <div align="center">  
-<img style="margin: 10px" src="https://media.giphy.com/media/4NC6NvcSkEYhHhOTHC/giphy.gif" alt="bexit"  /> 
+<img style="margin: 10px" src="https://media.giphy.com/media/4NC6NvcSkEYhHhOTHC/giphy.gif" alt="kuwaitiwords"  /> 
 </div>
 <hr/>
 
