@@ -21,34 +21,6 @@
 <br />
 <hr />
 
-### Languages and Libraries
-
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
-<img align="left" alt="bulma" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" />
-<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="Redux"  src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" height="50" width="120"/>
-<img align="left" alt="Django"  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50"/>
-<br />
-<br />
-<hr />
-
-### Tools and other stuff
-
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<br />
-<br />
-<hr />
-
 ## My Portfolio
 <table>
 <tr>
@@ -158,6 +130,34 @@
 </table>  
 <br/>  
 <hr/>
+
+### Languages and Libraries
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
+<img align="left" alt="bulma" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" />
+<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Redux"  src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" height="50" width="120"/>
+<img align="left" alt="Django"  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50"/>
+<br />
+<br />
+<hr />
+
+### Tools and other stuff
+
+<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
+<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<br />
+<br />
+<hr />
 
 ### Stats
 <a href="#stats">
