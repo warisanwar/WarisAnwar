@@ -52,7 +52,7 @@
   <img align="center" alt="Waris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisanwar&layout=compact" />
 </a>
 
-## My Work 
+## My Work
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -61,6 +61,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
 </div>
+<hr/>
 
 ### Built with:
 
@@ -73,49 +74,67 @@
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
                                                                                                                           
 </div>
+
 </td>
 
 <td valign="top" width="33%">
 
-### [Mismar]
+### [Ravenous]
 <div align="center">  
-<img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
+<img style="margin: 10px" src="https://media.giphy.com/media/vbKwMVQNpVbmubeRlI/giphy.gif" alt="ravenous"  /> 
 </div>
+<hr/>
 
 ### Built with:
 
 <div align="center">
-<img align="left" style="margin: 10px"alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50"/>
-<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 </div>
 </td>
 
 <td valign="top" width="33%">
 
-### [Mismar]
+### [Bexit]
 <div align="center">  
-<img style="margin: 10px" src="https://media.giphy.com/media/MZwEbkiz4TIg69bti4/giphy.gif" alt="Mismar"  /> 
+<img style="margin: 10px" src="https://media.giphy.com/media/9obnVtMbcZD80QjjNe/giphy.gif" alt="bexit"  /> 
 </div>
+<hr/>
 
 ### Built with:
 
 <div align="center">
-<img align="left" style="margin: 10px"alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50"/>
-<img align="left" alt="Django" width="40px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img align="left" alt="aws" width="40px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+</div>
+
+</td>
+</tr>
+<tr>
+  <td valign="top" >
+
+### [Kuwaiti Words]
+<div align="center">  
+<img style="margin: 10px" src="https://media.giphy.com/media/4NC6NvcSkEYhHhOTHC/giphy.gif" alt="bexit"  /> 
+</div>
+<hr/>
+
+### Built with:
+
+<div align="center">
+<img align="left" alt="React" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
+
 </div>
 
 </td>
 </tr>
 </table>  
-
 <br/>  
 
 
@@ -125,3 +144,6 @@
 [Twitter]: https://twitter.com/warisanwarmir
 [LinkedIn]: https://www.linkedin.com/in/warisanwar/
 [Mismar]: https://mismar.com/
+[Ravenous]: https://xenodochial-mcnulty-5cc1bf.netlify.app/
+[Bexit]: https://peaceful-goldberg-64219f.netlify.app/
+[Kuwaiti Words]: http://kuwaitiwords.com/
