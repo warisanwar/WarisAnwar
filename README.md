@@ -47,9 +47,6 @@
 
 ### Stats
 <a href="#stats">
-  <img align="center" alt="Waris's Github Stats" src="https://github-readme-stats.vercel.app/api?username=warisanwar&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="#stats">
   <img align="center" alt="Waris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisanwar&layout=compact" />
 </a>
 
