@@ -47,11 +47,6 @@
 <br />
 <hr />
 
-### Stats
-<a href="#stats">
-  <img align="center" alt="Waris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisanwar&layout=compact" />
-</a>
-
 ## My Work
 <table>
   <tr>
@@ -137,7 +132,10 @@
 </table>  
 <br/>  
 
-
+### Stats
+<a href="#stats">
+  <img align="center" alt="Waris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warisanwar&layout=compact" />
+</a>
 
 
 
