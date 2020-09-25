@@ -49,9 +49,35 @@
 <br />
 <hr />
 
+## My Portfolio
+<table>
+<tr>
+<td valign="middle" >
+
+### [Waris Anwar]
+<div align="center">  
+<img style="margin: 10px" src="https://media.giphy.com/media/KwWJe5JknQbfPXiN9k/giphy.gif" alt="kuwaitiwords"  /> 
+</div>
+<hr/>
+
+### Built with:
+
+<div align="center">
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="bulma" width="30px" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" />
+</div>
+</td>
+</tr>
+</table>
+<br/>  
+<hr/>
+
 ## My Work
 <table>
-  <tr>
+<tr>
     <td valign="top" width="33%">
 
 ### [Mismar]
@@ -89,11 +115,10 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<img align="left" alt="Bootstrap" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 </div>
 </td>
-
-<td valign="top" width="33%">
+  <td valign="top" width="33%">
 
 ### [Bexit]
 <div align="center">  
@@ -108,13 +133,13 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="Bootstrap" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" />
 </div>
 
 </td>
 </tr>
 <tr>
-  <td valign="top" >
+<td valign="top" width="33%">
 
 ### [Kuwaiti Words]
 <div align="center">  
@@ -126,10 +151,9 @@
 
 <div align="center">
 <img align="left" alt="React" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" />
-
 </div>
-
 </td>
+
 </tr>
 </table>  
 <br/>  
@@ -148,3 +172,4 @@
 [Ravenous]: https://xenodochial-mcnulty-5cc1bf.netlify.app/
 [Bexit]: https://peaceful-goldberg-64219f.netlify.app/
 [Kuwaiti Words]: http://kuwaitiwords.com/
+[Waris Anwar]: https://warisanwar.github.io/
