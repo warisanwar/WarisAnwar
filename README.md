@@ -1,4 +1,5 @@
 <img src="https://github.com/warisanwar/WarisAnwar/blob/master/header.png?raw=true">
+<hr />
 
 ### A Full Stack Web Developer with a focus in Front End and I love to create beautiful performant products with delightful user experiences.
 
