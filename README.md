@@ -145,8 +145,11 @@
 <br />
 <br />
 <hr />
+<br />
 
 ### Tools and other stuff
+
+<bt />
 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
