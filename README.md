@@ -28,7 +28,7 @@
 
 ### [Waris Anwar]
 <div align="center">  
-<img style="margin: 10px" src="https://media.giphy.com/media/KwWJe5JknQbfPXiN9k/giphy.gif" alt="kuwaitiwords"  /> 
+<img style="margin: 10px" src="https://media.giphy.com/media/14kuR0OT870lyOPYOx/giphy.gif" alt="kuwaitiwords"  /> 
 </div>
 <hr/>
 
