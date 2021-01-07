@@ -171,7 +171,7 @@
 
 [Twitter]: https://twitter.com/warisanwarmir
 [LinkedIn]: https://www.linkedin.com/in/warisanwar/
-[Mismar]: https://mismar.com/
+[Mismar]: https://mismar.vercel.app/
 [Ravenous]: https://xenodochial-mcnulty-5cc1bf.netlify.app/
 [Bexit]: https://peaceful-goldberg-64219f.netlify.app/
 [Kuwaiti Words]: http://kuwaitiwords.com/
