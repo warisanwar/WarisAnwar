@@ -4,10 +4,9 @@
 ### A Full Stack Web Developer with a focus in Front End and I love to create beautiful performant products with delightful user experiences.
 
 
-- 🔭 I’m currently working on ⚛ ReactJs and Django.
+- 🔭 Work technologies: Ionic/Expo/Reactjs/React Native/Django
 - 🌱 I’m currently learning more about back-end technologies.
 - 👯 I’m looking to collaborate on all kind of projects including Open Source.
-- 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about anything :D
 - 📫 How to reach me: [Email me](mailto:warismir07@gmail.com)
 - ⚡ Fun fact: I love learning languages(Human Languages:P)
