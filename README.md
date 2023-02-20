@@ -91,4 +91,4 @@
 [Ravenous]: https://xenodochial-mcnulty-5cc1bf.netlify.app/
 [Bexit]: https://peaceful-goldberg-64219f.netlify.app/
 [Kuwaiti Words]: http://kuwaitiwords.com/
-[Waris Anwar]: https://warisanwar.github.io/
+[Waris Anwar]: https://warisanwar.vercel.app/
