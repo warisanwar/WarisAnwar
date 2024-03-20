@@ -6,10 +6,10 @@
 
 - 🔭 Work technologies: Ionic/Expo/Reactjs/React Native/Django
 - 🌱 I’m currently learning more about back-end technologies.
-- 👯 I’m looking to collaborate on all kind of projects including Open Source.
-- 💬 Ask me about anything :D
+- 🤝 I’m looking to collaborate on all kind of projects including Open Source.
+- 💬 I can help you build your MVP asap.
 - 📫 How to reach me: [Email me](mailto:warismir07@gmail.com)
-- ⚡ Fun fact: I love learning languages(Human Languages:P)
+- ⚡ Fun fact: I like to explore different countries and make friends on the go.
 - ⛷ Hobbies: I love skiing,trekking and everything related to mountains⛰
 
 ### Connect with me
